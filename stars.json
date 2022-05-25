@@ -7,13 +7,13 @@
   },
   {
     "full_name": "Kirilllive/tuesday-js",
-    "stargazers_count": 127,
+    "stargazers_count": 129,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "ShizukuIchi/pdf-editor",
-    "stargazers_count": 707,
+    "stargazers_count": 710,
     "open_issues_count": 27,
     "forks_count": 138
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "webslides/WebSlides",
-    "stargazers_count": 5858,
+    "stargazers_count": 5859,
     "open_issues_count": 66,
-    "forks_count": 575
+    "forks_count": 577
   },
   {
     "full_name": "danielireson/formplug",
@@ -74,7 +74,7 @@
   {
     "full_name": "harvard-dce/zoom-recording-ingester",
     "stargazers_count": 18,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 5
   },
   {
@@ -87,7 +87,7 @@
     "full_name": "nprapps/lunchbox",
     "stargazers_count": 161,
     "open_issues_count": 23,
-    "forks_count": 149
+    "forks_count": 148
   },
   {
     "full_name": "nprapps/book-concierge",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "microsoft/PowerPlatformConnectors",
-    "stargazers_count": 463,
-    "open_issues_count": 59,
-    "forks_count": 695
+    "stargazers_count": 464,
+    "open_issues_count": 69,
+    "forks_count": 698
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 71055,
-    "open_issues_count": 1886,
-    "forks_count": 7345
+    "stargazers_count": 71135,
+    "open_issues_count": 1887,
+    "forks_count": 7352
   },
   {
     "full_name": "osano/cookieconsent",
@@ -127,31 +127,31 @@
   },
   {
     "full_name": "nuket/google-sheets-geocoding-macro",
-    "stargazers_count": 279,
+    "stargazers_count": 280,
     "open_issues_count": 1,
     "forks_count": 139
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 40154,
-    "open_issues_count": 83,
-    "forks_count": 5635
+    "stargazers_count": 40341,
+    "open_issues_count": 84,
+    "forks_count": 5641
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 52895,
-    "open_issues_count": 323,
-    "forks_count": 10274
+    "stargazers_count": 52914,
+    "open_issues_count": 327,
+    "forks_count": 10287
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 12097,
-    "open_issues_count": 436,
-    "forks_count": 377
+    "stargazers_count": 12122,
+    "open_issues_count": 441,
+    "forks_count": 378
   },
   {
     "full_name": "postlight/headless-wp-starter",
-    "stargazers_count": 4216,
+    "stargazers_count": 4218,
     "open_issues_count": 59,
     "forks_count": 632
   },
@@ -177,6 +177,6 @@
     "full_name": "jlord/sheetsee.js",
     "stargazers_count": 2754,
     "open_issues_count": 67,
-    "forks_count": 924
+    "forks_count": 926
   }
 ]
